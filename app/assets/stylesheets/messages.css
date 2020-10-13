@@ -15,6 +15,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #253141;
 }
 
 .header-name a{
@@ -154,9 +155,10 @@
   width: 60px;
   margin: 5px 10px;
   text-align: center;
+  display: flex;
+  justify-content: space-around;
 }
 
 .hidden{
   display: none;
 }
-
